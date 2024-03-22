@@ -43,3 +43,7 @@ def fibo_fun(n):
 
 print(fibo_fun(10))
 ```
+Anyone like a cheesy joke?
+```javascript
+console.log("Why do programmers prefer dark mode? Light attracts bugs.");
+```
