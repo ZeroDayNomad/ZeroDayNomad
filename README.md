@@ -1,4 +1,4 @@
-!(ZeroDay.png)
+![](ZeroDay.png)
 # Hi there, I'm ZeroDayNomad! 👨‍💻🚀
 
 ## Who am I? 🤔
