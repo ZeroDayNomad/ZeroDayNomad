@@ -21,9 +21,6 @@ I specialize in turning coffee into code, with a particular love for Python, Jav
 Feel free to reach out if you're interested in collaborating on a project, share a hacky coding tip, or just want to chat about the latest in tech over a virtual coffee. Here's where you can find me:
 
 - 🐙 GitHub: [@ZeroDayNomad](https://github.com/ZeroDayNomad)
-- 🐦 Twitter: [@ZeroDayNomad](https://twitter.com/ZeroDayNomad)
-- 💼 LinkedIn: [ZeroDayNomad](https://www.linkedin.com/in/zerodaynomad)
-- 📫 Email: zero@digitalnomad.path
 
 ## My Code Snippets 📄
 
