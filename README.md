@@ -52,9 +52,10 @@ console.log("Why do programmers prefer dark mode? Light attracts bugs.");
 <p align="left">
     <img src="NextJS.png" width="100" />
     <img src="React.png" width="100" />
+    <img src="MongoDB.png" width="100" />
     <img src="Tailwind CSS.png" width="100" />
     <img src="DaisyUI.png" width="100" />
     <img src="Mailgun.png" width="100" />
-    <img src="MongoDB.png" width="100" />
     <img src="Stripe.png" width="100" />
+    <img src="Python.png" width="100" />
 </p>
