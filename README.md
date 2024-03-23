@@ -50,5 +50,8 @@ console.log("Why do programmers prefer dark mode? Light attracts bugs.");
 <!-- Tools -->
 <h2> 🚀 &nbsp;My Tech Stack</h2>
 <p align="left">
-  <img src="DaisyUI.png" width="100" />
+    <img src="DaisyUI.png" width="100" />
+    <img src="NextJS.png" width="100" />
+    <img src="React.png" width="100" />
+    <img src="Tailwind CSS.png" width="100" />
 </p>
